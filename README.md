@@ -30,6 +30,3 @@
 ### Closing Remarks
 
     Thanks for your time.  I hope that this helps speed up your coding project.  Much success and good luck.
-
-
-
